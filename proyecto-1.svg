@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400" role="img" aria-label="Plataforma de comercio electrónico">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1d51bd"/>
+      <stop offset="1" stop-color="#5f8dff"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="400" rx="18" fill="url(#g)"/>
+  <rect x="70" y="90" width="150" height="220" rx="12" fill="#ffffff" opacity="0.92"/>
+  <rect x="245" y="90" width="150" height="220" rx="12" fill="#ffffff" opacity="0.92"/>
+  <rect x="420" y="90" width="150" height="220" rx="12" fill="#ffffff" opacity="0.92"/>
+  <rect x="90" y="110" width="110" height="70" rx="8" fill="#dbe6ff"/>
+  <rect x="265" y="110" width="110" height="70" rx="8" fill="#dbe6ff"/>
+  <rect x="440" y="110" width="110" height="70" rx="8" fill="#dbe6ff"/>
+  <rect x="90" y="196" width="90" height="10" rx="5" fill="#8aa6da"/>
+  <rect x="265" y="196" width="90" height="10" rx="5" fill="#8aa6da"/>
+  <rect x="440" y="196" width="90" height="10" rx="5" fill="#8aa6da"/>
+</svg>
